@@ -1,0 +1,17 @@
+	  Sri Sai Durga General Stores
+
+Bill Number:		2241
+Customer Name:		abhi
+Phone Number:		9100449157
+
+======================================
+Product		QTY		Price
+======================================
+oil		2.0		300.0
+sugar		2.0		90.0
+dal		5.0		750.0
+
+======================================
+Total Payable Amount :		      1140.0
+
+======================================

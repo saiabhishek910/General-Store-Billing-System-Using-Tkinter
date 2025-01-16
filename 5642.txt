@@ -1,0 +1,16 @@
+	  Sri Sai Durga General Stores
+
+Bill Number:		5642
+Customer Name:		abhishek
+Phone Number:		9100449157
+
+======================================
+Product		QTY		Price
+======================================
+Ruchi gold		1.0		157.0
+Sunflower		2.0		336.0
+
+======================================
+Total Payable Amount :		      493.0
+
+======================================
