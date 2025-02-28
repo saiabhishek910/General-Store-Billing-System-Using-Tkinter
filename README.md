@@ -48,7 +48,8 @@ This project is a **Billing System** built using **Tkinter (Python GUI)**. It al
    ```bash
    python retail_billing_system.py
    ```
+## 📜 License
+This project is open-source under the MIT License.
 
----
-### 📩 Contributions & Feedback
-Feel free to fork this repository, improve the project, and submit pull requests. Any feedback is highly appreciated! 🚀
+## 💡 Author: Abhishek
+If you found this useful, give it a ⭐ on GitHub!
